@@ -135,7 +135,7 @@ wallets/
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/evm-wallet-generator.git
+git clone https://github.com/Jauhar40/Generate-EVM-Wallet.git
 cd evm-wallet-generator
 ```
 
@@ -203,4 +203,4 @@ Tool ini dibuat untuk keperluan **development dan testing**. Author tidak bertan
 
 ---
 
-**Created by Flexoryn** | [Report Issues](https://github.com/yourusername/evm-wallet-generator/issues)
+**Created by Flexoryn** | [Report Issues](https://github.com/Jauhar40/Generate-EVM-Wallet.git)
